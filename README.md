@@ -22,7 +22,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/Veer8Thakur/chatbot-api.git
+git clone https://github.com/Veer8Thakur/AI-Chatbot
 Navigate to the project directory:
 
 bash
